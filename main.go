@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/jcbl1/lc_basic_algorithms/strings_"
+	"github.com/jcbl1/lc_basic_algorithms/other_problems"
 )
 
 func main() {
-	strings_.Main()
+	other_problems.Main()
 }
